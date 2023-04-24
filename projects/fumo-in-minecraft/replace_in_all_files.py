@@ -1,11 +1,11 @@
 import os
 
-old_string = """<link rel="stylesheet" href="../../wiki-site-files/css/theme.css"></link>"""
-new_string = """<base href="./">\n    <link rel="icon" type="image/x-icon" href="../../wiki-site-files/img/favicon.ico">\n    <link rel="stylesheet" href="../../wiki-site-files/css/theme.css"></link>"""
+old_string = """joe"""
+new_string = """mama"""
+
+only_allowed_file_type = "joemama.eidjfivskhdgfkhfb"
 
 rootdir = os.getcwd() + "/projects/fumo-in-minecraft/"
-
-only_allowed_file_type = "index.html"
 
 for subdir, dirs, files in os.walk(rootdir):
     for file in files:
