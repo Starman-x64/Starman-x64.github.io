@@ -9,7 +9,7 @@ export const advancementsTable = function(advancements, $a) {
                 advancementDataToGet.push(advancement.parent);
             }
         }
-        let tableRow = `<tr><td style="text-align:center; max-width:2em;"><span style="font-size:10px;"><img src="../../_wiki_site_files/img/advancemet/${advancement.tag}.png" alt="${advancement.tag} advancement"/></span></td><td><b>${advancement.name}</b></td><td>${advancement.description}</td><td>${$a[advancement.parent] != undefined ? $a[advancement.parent].name : advancement.parent.match(/^minecraft:/) ? `<a href="https://minecraft.fandom.com/wiki/Advancements" target="_blank">${advancement.parent.replace(/minecraft:/, "").replace(/_/g, " ").toProperCase()}</a>` : ""}</td><td>${advancement.requirements == "" ? "-" : advancement.requirements}</td><td>${advancement.resourceLocation}</td></tr>`;
+        let tableRow = `<tr><td style="text-align:center; max-width:2em;"><span style="font-size:10px;"><img src="../../wiki-site-files/img/advancemet/${advancement.tag}.png" alt="${advancement.tag} advancement"/></span></td><td><b>${advancement.name}</b></td><td>${advancement.description}</td><td>${$a[advancement.parent] != undefined ? $a[advancement.parent].name : advancement.parent.match(/^minecraft:/) ? `<a href="https://minecraft.fandom.com/wiki/Advancements" target="_blank">${advancement.parent.replace(/minecraft:/, "").replace(/_/g, " ").toProperCase()}</a>` : ""}</td><td>${advancement.requirements == "" ? "-" : advancement.requirements}</td><td>${advancement.resourceLocation}</td></tr>`;
         tableContents += tableRow;
     });
 

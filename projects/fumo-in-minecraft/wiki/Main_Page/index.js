@@ -1,5 +1,5 @@
-import { transclusionSubstitution } from "../../_wiki_site_files/js/transclusionSubstitution.js";
-import { rightAside } from "../../_wiki_site_files/templates/right_aside.js";
+import { transclusionSubstitution } from "../../wiki-site-files/js/transclusionSubstitution.js";
+import { rightAside } from "../../wiki-site-files/templates/right_aside.js";
 
 // put content on the page generated from provided markdown
 (async () => {

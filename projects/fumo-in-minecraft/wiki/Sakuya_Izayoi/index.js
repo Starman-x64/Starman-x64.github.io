@@ -1,6 +1,6 @@
-import { transclusionSubstitution } from "../../_wiki_site_files/js/transclusionSubstitution.js";
-import { getData } from "../../_wiki_site_files/js/getData.js";
-import { generateTableOfContents } from "../../_wiki_site_files/js/generate_table_of_contents.js";
+import { transclusionSubstitution } from "../../wiki-site-files/js/transclusionSubstitution.js";
+import { getData } from "../../wiki-site-files/js/getData.js";
+import { generateTableOfContents } from "../../wiki-site-files/js/generate_table_of_contents.js";
 
 // function which will get the correct data to populate tables etc. on the page
 var data = {};

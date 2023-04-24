@@ -14,7 +14,7 @@ export const recipeTable = function(item, $i) {
             }
             ingredientsList += `<li>${ingredient.quantity} ${ingredient.item}</li>`
         });
-        let tableRow = `<tr><th>${item.item}</th><td style="text-align:left;"><ul >${ingredientsList}</ul></td><td style="text-align:center;">${recipe.workStation}</td><td style="text-align:center;"><img src="../../_wiki_site_files/img/recipe/${recipe.workStation}/${item.item}.png" alt="${item.item} recipe" /></td></tr>`;
+        let tableRow = `<tr><th>${item.item}</th><td style="text-align:left;"><ul >${ingredientsList}</ul></td><td style="text-align:center;">${recipe.workStation}</td><td style="text-align:center;"><img src="../../wiki-site-files/img/recipe/${recipe.workStation}/${item.item}.png" alt="${item.item} recipe" /></td></tr>`;
         tableContents += tableRow;
     });
     

@@ -16,7 +16,7 @@ export const pageSkeleton = function(title, commentPage=false) {
       <div id="side-nav">
         <div class="logo">
           <a href="../../" title="Fumo in Minecraft? Wiki">
-            <img src="../../_wiki_site_files/img/shrine_maidens_favour.png" />
+            <img src="../../wiki-site-files/img/shrine_maidens_favour.png" />
           </a>
         </div>
         <div>

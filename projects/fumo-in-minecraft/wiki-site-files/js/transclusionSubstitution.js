@@ -1,9 +1,9 @@
-import { contents } from "../../_wiki_site_files/templates/contents.js";
-import { infobox } from "../../_wiki_site_files/templates/infobox.js";
-import { recipeTable } from "../../_wiki_site_files/templates/recipe_table.js";
-import { usedInRecipeTable } from "../../_wiki_site_files/templates/used_in_recipe_table.js";
+import { contents } from "../../wiki-site-files/templates/contents.js";
+import { infobox } from "../../wiki-site-files/templates/infobox.js";
+import { recipeTable } from "../../wiki-site-files/templates/recipe_table.js";
+import { usedInRecipeTable } from "../../wiki-site-files/templates/used_in_recipe_table.js";
 import { advancementsTable } from "../templates/advancements_table.js";
-import { rightAside } from "../../_wiki_site_files/templates/right_aside.js";
+import { rightAside } from "../../wiki-site-files/templates/right_aside.js";
 
 const interpretDollarString = function(dollarString, data) {
     if (dollarString == "") return "";

@@ -2,7 +2,7 @@ export async function getData(type, names) {
     switch (type) {
         case "item":
             // get json data
-            const itemResponse = await fetch("../../_wiki_site_files/data/items.json", {});
+            const itemResponse = await fetch("../../wiki-site-files/data/items.json", {});
             const itemJson = await itemResponse.json();
             let itemData = {};
             await names.forEach(( name ) => {
@@ -11,7 +11,7 @@ export async function getData(type, names) {
             return itemData;
         case "recipe":
             // get json data
-            const recipeResponse = await fetch("../../_wiki_site_files/data/recipes.json", {});
+            const recipeResponse = await fetch("../../wiki-site-files/data/recipes.json", {});
             const recipeJson = await recipeResponse.json();
             let recipeData = {};
             await names.forEach(( name ) => {
@@ -20,7 +20,7 @@ export async function getData(type, names) {
             return recipeData;
         case "usedIn":
             // get json data
-            const usedInResponse = await fetch("../../_wiki_site_files/data/recipes.json", {});
+            const usedInResponse = await fetch("../../wiki-site-files/data/recipes.json", {});
             const usedInJson = await usedInResponse.json();
             let usedInData = {};
             await names.forEach(( name ) => {
@@ -34,7 +34,7 @@ export async function getData(type, names) {
             return usedInData;
         case "advancement":
             // get json data
-            const advancementResponse = await fetch("../../_wiki_site_files/data/advancements.json", {});
+            const advancementResponse = await fetch("../../wiki-site-files/data/advancements.json", {});
             const advancementJson = await advancementResponse.json();
             let advancementData = {};
             await names.forEach(( name ) => {
@@ -43,7 +43,7 @@ export async function getData(type, names) {
             return advancementData;
         case "usedInAdvancement":
             // get json data
-            const usedInAdvancementResponse = await fetch("../../_wiki_site_files/data/advancements.json", {});
+            const usedInAdvancementResponse = await fetch("../../wiki-site-files/data/advancements.json", {});
             const usedInAdvancementJson = await usedInAdvancementResponse.json();
             let usedInAdvancementData = {};
             await names.forEach(( name ) => {

@@ -5,7 +5,7 @@ export const infobox = function(itemData, displayedInfo) {
         ${itemData.name}
     </div>
     <div class="infobox-image">
-        <div><img src="../../_wiki_site_files/img/${itemData.type.toLowerCase()}/${itemData.category.toLowerCase().replace(/ /g, "_")}/${itemData.tag}.png" alt="${itemData.name}" /></div>
+        <div><img src="../../wiki-site-files/img/${itemData.type.toLowerCase()}/${itemData.category.toLowerCase().replace(/ /g, "_")}/${itemData.tag}.png" alt="${itemData.name}" /></div>
         <div>${itemData.lore}</div>
     </div>
     ${displayedInfo.type || displayedInfo.genericItem ? `<div class="infobox-type"><div>Type</div><div>${itemData.type}</div></div>` : `\b`}
