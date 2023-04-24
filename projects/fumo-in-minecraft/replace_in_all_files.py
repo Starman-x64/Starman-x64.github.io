@@ -1,7 +1,7 @@
 import os
 
-old_string = "_wiki_site_files"
-new_string = "wiki-site-files"
+old_string = """<link rel="stylesheet" href="../../wiki-site-files/css/theme.css"></link>"""
+new_string = """<base href="./">\n<link rel="icon" type="image/x-icon" href="../../wiki-site-files/img/favicon.ico">\n<link rel="stylesheet" href="../../wiki-site-files/css/theme.css"></link>"""
 
 rootdir = os.getcwd() + "/projects/fumo-in-minecraft/"
 
