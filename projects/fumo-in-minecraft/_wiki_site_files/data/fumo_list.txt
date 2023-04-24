@@ -1,0 +1,22 @@
+Just a list of all the fumos in quotes, sorted in alphabetical order and separated by commas.
+
+"alice_fumo",
+"aya_fumo",
+"cirno_fumo",
+"daiyousei_fumo",
+"flandre_fumo",
+"koakuma_fumo",
+"koishi_fumo",
+"marisa_fumo",
+"meiling_fumo",
+"patchouli_fumo",
+"ran_fumo",
+"reimu_fumo",
+"remilia_fumo",
+"rumia_fumo",
+"sakuya_fumo",
+"satori_fumo",
+"tenshi_fumo",
+"youmu_fumo",
+"yukari_fumo",
+"yuyuko_fumo"

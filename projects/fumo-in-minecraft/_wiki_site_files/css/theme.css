@@ -1,0 +1,22 @@
+:root {
+    --body-color: #4b5e80;
+    --page-color: #171819;
+    --header-color: #000000;
+    --footer-color: #000000;
+    --aside-color: #131313;
+    --table-border-color: #3a3a3a;
+    --table-header-color: #363636;
+    --table-background-color: #131313;
+
+    --search-box-color: #131313;
+
+    --text-color: #ffffff;
+    --faded-text-color: #7f7f7f;
+    --error-color: #e00404;
+    --link-color: #f39519;
+    --accent-1: #1970f3;
+
+    --border-radius: 0.25em;
+
+    /* #f39519 */
+}

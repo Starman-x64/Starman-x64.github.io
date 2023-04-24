@@ -1,0 +1,380 @@
+[
+    {
+        "item": "fumo_base",
+        "recipes": [
+            {
+                "workStation": "youkai_forge",
+                "ingredients": [
+                    {
+                        "item": "fairy_wing",
+                        "quantity": 8
+                    },
+                    {
+                        "item": "minecraft:armor_stand",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "alice_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "nanairo_essence",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "aya_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "bunbunmaru_lost_edition",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "cirno_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "icicle_core",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "daiyousei_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "nature_core",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "flandre_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "placeholder",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "koakuma_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "placeholder",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "koishi_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "numb_brain",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "meiling_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "placeholder",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "marisa_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "mini_hakkero",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "patchouli_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "seven_day_tome",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "ran_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "placeholder",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "reimu_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "shrine_maidens_favour",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "remilia_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "placeholder",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "rumia_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "dark_core",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "sakuya_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "sakuyas_pocket_watch",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "satori_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "bestial_conscious",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "tenshi_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "heaven_and_earth_manifest",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "youmu_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "form_of_semitactility",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "yukari_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "placeholder",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": "yuyuko_fumo",
+        "recipes": [
+            {
+                "workStation": "fumo_imbuement_station",
+                "ingredients": [
+                    {
+                        "item": "fumo_base",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "perfect_cherry_blossom",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "tag": "fumo_fumo_0",
+        "name": "Fumo Fumo?",
+        "description": "Obtain a fumo of any kind. ",
+        "parent": "",
+        "requirements": "",
+        "resourceLocation": "",
+        "relatedItems": [
+            "alice_fumo",
+            "aya_fumo",
+            "cirno_fumo",
+            "daiyousei_fumo",
+            "flandre_fumo",
+            "koakuma_fumo",
+            "koishi_fumo",
+            "marisa_fumo",
+            "meiling_fumo",
+            "patchouli_fumo",
+            "ran_fumo",
+            "reimu_fumo",
+            "remilia_fumo",
+            "rumia_fumo",
+            "sakuya_fumo",
+            "satori_fumo",
+            "tenshi_fumo",
+            "youmu_fumo",
+            "yukari_fumo",
+            "yuyuko_fumo"
+        ]
+    },
+    {
+        "tag": "fumo_fumo_1",
+        "name": "Fumo Fumo!",
+        "description": "Obtain every fumo.",
+        "parent": "fumo_fumo_0",
+        "requirements": "",
+        "resourceLocation": "",
+        "relatedItems": [
+            "alice_fumo",
+            "aya_fumo",
+            "cirno_fumo",
+            "daiyousei_fumo",
+            "flandre_fumo",
+            "koakuma_fumo",
+            "koishi_fumo",
+            "marisa_fumo",
+            "meiling_fumo",
+            "patchouli_fumo",
+            "ran_fumo",
+            "reimu_fumo",
+            "remilia_fumo",
+            "rumia_fumo",
+            "sakuya_fumo",
+            "satori_fumo",
+            "tenshi_fumo",
+            "youmu_fumo",
+            "yukari_fumo",
+            "yuyuko_fumo"
+        ]
+    },
+    {
+        "tag": "scarlet_mist",
+        "name": "Scarlet Mist",
+        "description": "Obtain the cast of Embodiment of Scarlet Devil (Excluding Playable Characters)",
+        "parent": "fumo_fumo_0",
+        "requirements": "Obtain at least one fumo of each of Rumia, Daiyousei, Cirno, Meiling, Koakuma, Patchouli, Sakuya, Remilia, and, Flandre.",
+        "resourceLocation": "",
+        "relatedItems": [
+            "cirno_fumo",
+            "daiyousei_fumo",
+            "flandre_fumo",
+            "koakuma_fumo",
+            "meiling_fumo",
+            "patchouli_fumo",
+            "remilia_fumo",
+            "rumia_fumo",
+            "sakuya_fumo"
+        ]
+    },
+    {
+        "tag": "am_i_dead",
+        "name": "Am I Dead?",
+        "description": "Enter the Netherworld",
+        "parent": "",
+        "requirements": "",
+        "resourceLocation": "",
+        "relatedItems": [
+            
+        ]
+    },
+    {
+        "tag": "maybe_i_really_am_dead",
+        "name": "Maybe I Really Am Dead...",
+        "description": "Reach Heaven",
+        "parent": "",
+        "requirements": "",
+        "resourceLocation": "",
+        "relatedItems": [
+            
+        ]
+    },
+    {
+        "tag": "fallen_angel",
+        "name": "Fallen Angel",
+        "description": "Fall from Heaven into the Overworld",
+        "parent": "maybe_i_really_am_dead",
+        "requirements": "",
+        "resourceLocation": "",
+        "relatedItems": [
+            
+        ]
+    }
+]
